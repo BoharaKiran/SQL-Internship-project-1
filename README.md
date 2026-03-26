@@ -5,7 +5,7 @@
 
 2. Employee Management System
 - Managed employee records and attendance data.
-Calculated work hours and generated reports.
+- Calculated work hours and generated reports.
 
 3. COVID-19 Data Analytics
 - Analyzed COVID-19 dataset using SQL queries.
